@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=mative-plymouth
+Description=Mative Plymouth theme by - Maksym Titenko
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/mative
+ScriptFile=/usr/share/plymouth/themes/mative/mative-plymouth.script
